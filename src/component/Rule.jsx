@@ -17,7 +17,7 @@ export default function Rule() {
 
 const Rulecontainer = styled.div`
 border-radius: 10px;
-margin-top: 24px;
+margin-top: 50px;
 max-width: 800px;
 margin: 0 auto;
 background-color: #fbf1f1;
